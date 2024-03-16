@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Start the Execution]]>
+    </line>
+    <line>
+      <![CDATA[OrganigationTestTestscript Exuction is started]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-03-09T12:33:12 IST" name="Default suite" finished-at="2024-03-09T12:33:42 IST" duration-ms="30284">
+    <groups>
+    </groups>
+    <test started-at="2024-03-09T12:33:12 IST" name="Default test" finished-at="2024-03-09T12:33:42 IST" duration-ms="30284">
+      <class name="vtigerCRM.OrganizationTestNG">
+        <test-method is-config="true" signature="BS()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:12 IST" name="BS" finished-at="2024-03-09T12:33:12 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:12 IST" name="BC" finished-at="2024-03-09T12:33:17 IST" duration-ms="4777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:17 IST" name="BM" finished-at="2024-03-09T12:33:28 IST" duration-ms="10699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="OrganigationTest()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:28 IST" name="OrganigationTest" finished-at="2024-03-09T12:33:37 IST" duration-ms="8685" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OrganigationTestTestscript Exuction is started]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OrganigationTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:37 IST" name="AM" finished-at="2024-03-09T12:33:42 IST" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:42 IST" name="AC" finished-at="2024-03-09T12:33:42 IST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:vtigerCRM.OrganizationTestNG@37d80fe7]" started-at="2024-03-09T12:33:43 IST" name="AS" finished-at="2024-03-09T12:33:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- vtigerCRM.OrganizationTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
